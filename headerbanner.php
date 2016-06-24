@@ -9,4 +9,5 @@
     <div class="small small-color"> <span class="glyphicon glyphicon-lock"></span> Seu e-mail está <strong>SEGURO</strong> conosco #TEAMPANQUECA.</div>
     </div>
     </div>
+    
 </header>

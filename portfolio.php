@@ -17,8 +17,8 @@
                         <img src="img/imagens-dieta/007.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Round Icons</h4>
-                        <p class="text-muted">Graphic Design</p>
+                        <h4>Transformações</h4>
+                        <p class="text-muted">Diéta Flexível</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
@@ -31,8 +31,8 @@
                         <img src="img/imagens-dieta/002.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Startup Framework</h4>
-                        <p class="text-muted">Website Design</p>
+                        <h4>Transformações</h4>
+                        <p class="text-muted">Diéta Flexível</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
@@ -45,8 +45,8 @@
                         <img src="img/imagens-dieta/003.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Treehouse</h4>
-                        <p class="text-muted">Website Design</p>
+                        <h4>Transformações</h4>
+                        <p class="text-muted">Diéta Flexível</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
@@ -59,8 +59,8 @@
                         <img src="img/imagens-dieta/004.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Golden</h4>
-                        <p class="text-muted">Website Design</p>
+                        <h4>Transformações</h4>
+                        <p class="text-muted">Diéta Flexível</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
@@ -72,9 +72,9 @@
                         </div>
                         <img src="img/imagens-dieta/005.jpg" class="img-responsive" alt="">
                     </a>
-                    <div class="portfolio-caption">
-                        <h4>Ewerton Rocha</h4>
-                        <p class="text-muted">Website Design</p>
+                   <div class="portfolio-caption">
+                        <h4>Transformações</h4>
+                        <p class="text-muted">Diéta Flexível</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
@@ -86,9 +86,9 @@
                         </div>
                         <img src="img/imagens-dieta/006.jpg" class="img-responsive" alt="">
                     </a>
-                    <div class="portfolio-caption">
-                        <h4>Dreams</h4>
-                        <p class="text-muted">Website Design</p>
+                   <div class="portfolio-caption">
+                        <h4>Transformações</h4>
+                        <p class="text-muted">Diéta Flexível</p>
                     </div>
                 </div>
             </div>

@@ -9,6 +9,8 @@
 
     <title>Dieta Flexível e Musculação</title>
 
+ 
+
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -31,3 +33,4 @@
     <![endif]-->
 
 </head>
+<?php include"modal-oui.php";?>
