@@ -12,8 +12,8 @@
 <div class="col-lg-8 col-lg-offset-2">
 <div class="modal-body">
 <!-- Project Details Go Here -->
-<h2>Faça o Download</h2>
-<p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+<h2>Digite Seu Melhor E-mail e Faça o Download</h2>
+
 <div class="row">
 <form action="https://dojodev.us13.list-manage.com/subscribe/post?u=9c154868d558af6ce73f27dda&amp;id=1b7fbd8748" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="form-group-lg form-inline" target="_blank" novalidate>
 
@@ -27,10 +27,11 @@
     <div id="success"></div>
 <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9c154868d558af6ce73f27dda_1b7fbd8748" tabindex="-1" value=""></div>
-<button type="submit" class="btn btn-xl">BAIXAR E-BOOK AGORA</button>
+<button type="submit" class="btn btn-xl">BAIXAR E-BOOK AGORA O E-BOOK</button>
 </div>
-<p class="small">Seu e-mail está SEGURO conosco</p>
-
+	<div class="row">
+	<div class="small small-color"> <span class="glyphicon glyphicon-lock"></span> Seu e-mail está <strong>SEGURO</strong> conosco <b>#TEAMPANQUECA.</b></div>
+	</div>
 </form>
 </div><!-- Container-->
 </div>
